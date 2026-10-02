@@ -1,16 +1,29 @@
-## Hi there 👋
+# 你好，我是小昱 👋
 
-<!--
-**Yul-pio/Yul-pio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+计算机专业大二在读，正在系统刷算法题，把每一道做过的题都写成笔记。
 
-Here are some ideas to get you started:
+思路、代码、踩坑点、复杂度 —— 都记下来。
+一是为了以后复习，二是想把"会做"练成"讲得清楚"。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📌 正在做的事
+
+- 🧩 **刷算法题** — 从数组、字符串、哈希表开始，做一题记一篇
+- 📖 **打基础** — 数据结构与算法、操作系统、计算机网络
+- ✍️ **写笔记** — 每道题都留下思路和易错点，方便二刷
+
+### 🗂 我的仓库
+
+| 仓库 | 内容 | 状态 |
+| --- | --- | --- |
+| [LeetCode-Notes](https://github.com/Yul-pio/LeetCode-Notes) | 力扣题解笔记，按难度分类 | 持续更新 |
+
+### 🛠 平时在用
+
+`Java` `C++` `Python` `Git` `Markdown` `c`
+
+
+---
+
+<sub>把每一道题讲明白，比多刷十道题更重要。</sub>
